@@ -2,7 +2,7 @@
 #include<iomanip>
 
 using namespace std;
-/*
+
 int main(){
     //ios_base::fmtflags flags = cout.flags();
     cout.setf(ios::right);
@@ -15,4 +15,3 @@ int main(){
     }
 }
 
-*/
