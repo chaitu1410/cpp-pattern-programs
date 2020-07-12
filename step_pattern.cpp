@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-/*
+
 int main(){
     int lb=3,ub=4,c=1;
     for(int i = 0; i <= 7; i++){
@@ -22,4 +22,3 @@ int main(){
 
     return 0;
 }
-*/
